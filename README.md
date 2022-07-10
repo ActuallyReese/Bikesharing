@@ -22,3 +22,10 @@ This graph shows how long users spend riding their bikes. Most users, regardless
 
 ## Summary
 Overall, the usage in New York shows that there is demand for a bike sharing service. Des Moines would benefit from the service in similar ways to New York. The service is popular enough that most users are paying the subscription fee. With the given dataset, I would create visualizations comparing time of day and age to determine if a differently aged population would be as successful as New York. I might also make a graph showing the usage of the service over a year rather than just in August.
+
+***
+Contact:
+
+E-mail: reesewc@comcast.net
+
+LinkedIn: https://www.linkedin.com/in/reese-coulter-33b160140/
