@@ -1,9 +1,9 @@
-# bikesharing 
+# Bikesharing 
 
-### [link to dashboard](https://public.tableau.com/app/profile/reese.coulter "link to dashboard")
+### [Link to dashboard](https://public.tableau.com/app/profile/reese.coulter "link to dashboard")
 
 ## Overview
-The purpose of the analysis is to convince investors that Des Moines would benefit from a bike-sharing company like the one in New York, Citibike.
+The purpose of the analysis is to convince hypothetical investors that Des Moines would benefit from a bike-sharing company like the one in New York called Citibike.
 
 ## Results
 
